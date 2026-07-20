@@ -1,24 +1,22 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Hackathons](https://img.shields.io/badge/Hackathons-1-brightgreen?style=flat-square)](https://github.com/judz-n)
+[![Followers](https://img.shields.io/github/followers/judz-n?label=Followers&style=flat-square)](https://github.com/judz-n)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Hey there - welcome to my profile! I'm a Computer Programming and Analysis student at Seneca Polytechnic. I work on web projects, game development, digital art and creative coding with a focus on JavaScript, C++ and C#.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Toronto, Ontario
+- 🎓 Education: Seneca Polytechnic, Computer Programming and Analysis '28
+- 📅 Hacking Since: 2025
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🐸 [Leapy-Frog](https://github.com/judz-n/Leapy-Frog) — My first Unity project inspired by the iconic game Flappy Bird. (C#) — github.com/judz-n/Leapy-Frog
+- 🛠️ [judz-portfolio](https://github.com/judz-n/judz-portfolio) — A WIP of my portfolio to display my skills and work as a developer. (Web) — github.com/judz-n/judz-portfolio
+- 🎨 [digital-art-gallery](https://github.com/judz-n/digital-art-gallery) — A digital art book for simple icons and sprites made with Inkscape and Pixelorama. (Art) — github.com/judz-n/digital-art-gallery
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: JavaScript, C++, C#
+- 🔭 Focus: Web Development, Game Development, Digital Art
+- ❤️ Interests: Creative Coding, UI/UX Design, Game Design
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
