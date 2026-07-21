@@ -2,7 +2,6 @@
 
 [![Hackathons](https://img.shields.io/badge/Hackathons-3-ED547D?style=flat-rounded)](https://github.com/judz-n)
 [![Followers](https://img.shields.io/github/followers/judz-n?label=Followers&color=C46AEF&style=flat-rounded)](https://github.com/judz-n)
-
 [![Creative Coder](https://img.shields.io/badge/Creative_Coder-FF5F5A?style=flat-rounded)](https://github.com/judz-n)
 [![Web Developer](https://img.shields.io/badge/Web_Developer-E52B6D?style=flat-rounded)](https://github.com/judz-n)
 [![Game Developer](https://img.shields.io/badge/Game_Developer-957BF9?style=flat-rounded)](https://github.com/judz-n)
@@ -25,6 +24,8 @@
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-BA68C8?style=flat-rounded&logo=world&logoColor=white)](https://judz-portfolio.com) -->
 
 </div>
+
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
 
 ## About
 👋 Hey there - welcome to my profile! I'm a Computer Programming and Analysis student at Seneca Polytechnic. I work on web projects, game development, digital art and creative coding with a focus on JavaScript, C++ and C#.
