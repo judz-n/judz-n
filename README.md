@@ -15,6 +15,11 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-rounded&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-rounded&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=flat-rounded&logo=unity&logoColor=white)](https://unity.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-rounded&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-rounded&logo=express&logoColor=white)](https://expressjs.com/)
+[![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-rounded&logo=ejs&logoColor=white)](https://ejs.co/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-rounded&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-rounded&logo=daisyui&logoColor=white)](https://daisyui.com/)
 
 **Connect with Me**
 
@@ -35,12 +40,14 @@
 - 📅 Hacking Since: 2025
 
 ## Featured Projects
-- 🐸 [Leapy-Frog](https://github.com/judz-n/Leapy-Frog) — My first Unity project inspired by the iconic game Flappy Bird. (C#) — github.com/judz-n/Leapy-Frog
-- 🛠️ [judz-portfolio](https://github.com/judz-n/judz-portfolio) — A WIP of my portfolio to display my skills and work as a developer. (Web) — github.com/judz-n/judz-portfolio
-- 🎨 [digital-art-gallery](https://github.com/judz-n/digital-art-gallery) — A digital art book for simple icons and sprites made with Inkscape and Pixelorama. (Art) — github.com/judz-n/digital-art-gallery
+- 🐸 [Leapy-Frog](https://github.com/judz-n/Leapy-Frog) — My first Unity project inspired by the iconic game Flappy Bird. (C#)
+- 🛠️ [judz-portfolio](https://github.com/judz-n/judz-portfolio) — A WIP of my portfolio to display my skills and work as a developer. (Web)
+- 🎨 [digital-art-gallery](https://github.com/judz-n/digital-art-gallery) — A digital art book for simple icons and sprites made with Inkscape and Pixelorama. (Art)
 
 ## Tech & Interests
 - 🧰 Languages: JavaScript, C++, C#
+- 🌐 Markup/Styling: HTML5, CSS, Tailwind CSS, DaisyUI
+- 🛠️ Backend: Node.js, Express, EJS
 - 🔭 Focus: Web Development, Game Development, Digital Art
 - ❤️ Interests: Creative Coding, UI/UX Design, Game Design
 
