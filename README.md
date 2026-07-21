@@ -4,7 +4,7 @@
 [![Followers](https://img.shields.io/github/followers/judz-n?label=Followers&color=C46AEF&style=flat-rounded)](https://github.com/judz-n)
 [![Creative Coder](https://img.shields.io/badge/Creative_Coder-FF5F5A?style=flat-rounded)](https://github.com/judz-n)
 [![Web Developer](https://img.shields.io/badge/Web_Developer-E52B6D?style=flat-rounded)](https://github.com/judz-n)
-[![Game Developer](https://img.shields.io/badge/Game_Developer-957BF9?style=flat-rounded)](https://github.com/judz-n)
+[![Game Developer](https://img.shields.io/badge/Game_Developer-7C5CFF?style=flat-rounded)](https://github.com/judz-n)
 [![MLH Participant](https://img.shields.io/badge/MLH_Participant-0A3161?style=flat-rounded&logo=mlh&logoColor=white)](https://mlh.io/)
 
 **Languages & Tech**
